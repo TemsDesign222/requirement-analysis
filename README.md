@@ -36,7 +36,7 @@ I’m committed to growing as a tech professional, building meaningful applicati
 
 # Write a brief introduction explaining the purpose of this repository.
 
-## Welcome to my repository dedicated to "Requirement Analysis in Software Development" As an aspiring front-end developer currently enrolled in the ALX Software Engineering program, I created this repository to deepen my understanding of the critical phase of requirement analysis in software projects.
+Welcome to my repository dedicated to "Requirement Analysis in Software Development" As an aspiring front-end developer currently enrolled in the ALX Software Engineering program, I created this repository to deepen my understanding of the critical phase of requirement analysis in software projects.
 This repo is an exploration of the tools, techniques, and best practices used to gather, analyze, and document requirements, ensuring that every software project I work on is based on clear and well-understood goals. 
 
-## The purpose of this repository is to consolidate the knowledge I’ve gained so far and share it with others who are on a similar journey. Whether you’re just starting out or looking to improve your skills in software development, I hope you’ll find valuable resources and examples that will help you build better applications from the ground up.
+The purpose of this repository is to consolidate the knowledge I’ve gained so far and share it with others who are on a similar journey. Whether you’re just starting out or looking to improve your skills in software development, I hope you’ll find valuable resources and examples that will help you build better applications from the ground up.
