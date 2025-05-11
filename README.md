@@ -74,7 +74,7 @@ As I continue my journey through the ALX Software Engineering program and grow i
 . Management 
    As projects evolve, requirements may change. Managing these changes ensures the development stays aligned with the agreed goals without causing confusion or delays.
 
-## Types of requirements.
+## Types of Requirements.
 
 As I grow in my software engineering journey through the ALX program and focus on front-end development, understanding the difference between "functional" and "non-functional requirements" has become essential. Both types of requirements play a major role in shaping how software is built and experienced by users.
 
