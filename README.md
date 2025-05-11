@@ -128,7 +128,6 @@ Use Cases:
 . View profile  
 . Admin approves new accounts
 
-![image](https://github.com/user-attachments/assets/9039131c-d570-48a8-92ee-1b9a851f95dc)
 
 In a diagram, you’d see lines connecting each actor to the use cases they interact with. It gives a quick snapshot of who does what and helps guide both design and development.
 By learning how to use Use Case Diagrams early in the software development process, I can better plan the front-end features that matter most and align them with the system’s overall goals.
